@@ -1,2 +1,2 @@
-# JSOC-Wiki
-List of Projects for JSOC
+# JSoC-Wiki
+List of Projects for JSoC
