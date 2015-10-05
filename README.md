@@ -3,17 +3,17 @@
 ### *NOTE*: Please contact the mentors to get started.
 ## Projects
 1. Cyberoam Utility Tools
-  - a
-  - b
-  - c
+  - Gurleen Sethi
+  - Nikunj Goel
+  - Mentor: Avijit Gupta
 2. Drop-it
-  - a
-  - b
-  - c
-3. Cyberoam Utility Tools
-  - a
-  - b
-  - c
+  - Sahil Upadhyay
+  - Himanshu Garg
+  - Mentor: Yash Mehrotra
+3. Longclaw
+  - Abhishek Gupta
+  - Nipun Garg
+  - Mentor: Tanmay Datta
 4. Drop-it
   - a
   - b
@@ -22,10 +22,10 @@
   - a
   - b
   - c
-6. Drop-it
-  - a
-  - b
-  - c
+6. Text Detection and Character Recognition in Scene Images with Unsupervised Feature Learning
+  - Vaibahv Grover
+  - Hrishikesh Singh
+  - Mentor: Shreya Kakkar
 7. Cyberoam Utility Tools
   - a
   - b
@@ -34,10 +34,11 @@
   - a
   - b
   - c
-9. Cyberoam Utility Tools
-  - a
-  - b
-  - c
+9. API for Website
+  - Ananya Singhal
+  - Sejal Goyal
+  - Jharna Barlawala
+  - Mentor: Shubham Aggarwal
 10. Drop-it
   - a
   - b
