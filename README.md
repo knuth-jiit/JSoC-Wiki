@@ -101,7 +101,7 @@
   - Eshan Gaur
   - Abhishek Chauhan
   - Mentor: Gaurang
-24. Drop-it
+24. Comparing Site
   - a
   - b
   - c
@@ -115,7 +115,7 @@
   - Pankaj Ahuja
   - Rishabh Devgan
   - Mentor: Piyush Srivastava
-27. Cyberoam Utility Tools
+27. Game Development with Python
   - a
   - b
   - c
