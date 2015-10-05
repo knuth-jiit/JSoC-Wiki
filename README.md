@@ -43,10 +43,12 @@
   - a
   - b
   - c
-11. Cyberoam Utility Tools
-  - a
-  - b
-  - c
+11. AI Game
+  - Kartik Sharma
+  - Somya Bhatnagar
+  - Shubhankar Tewari
+  - Shashwat Sahai
+  - Mentor: Dhruv Srivastava
 12. Drop-it
   - a
   - b
@@ -55,14 +57,18 @@
   - a
   - b
   - c
-14. Drop-it
-  - a
-  - b
-  - c
-15. Cyberoam Utility Tools
-  - a
-  - b
-  - c
+14. Automated Essay Grading
+  - Umang Nyati
+  - Sneha Rawat
+  - Rishabh Malhotra
+  - Palak Agarwal
+  - Mentor: Lovish Mittal
+15. File Sharing Client for JIIT
+  - Saraansh Baranwal
+  - Dhruv Mittal
+  - Siddhant Pathak
+  - Emin Afroz
+  - Mentor: Gaurav Shukla
 16. Drop-it
   - a
   - b
@@ -71,10 +77,10 @@
   - a
   - b
   - c
-18. Drop-it
-  - a
-  - b
-  - c
+18. JIIT Event Scheduling App
+  - Yash Tandon
+  - Harshit Singhal
+  - Mentor: Atul Agarwal
 19. Cyberoam Utility Tools
   - a
   - b
@@ -91,22 +97,24 @@
   - a
   - b
   - c
-23. Cyberoam Utility Tools
-  - a
-  - b
-  - c
+23. Braille Voice
+  - Eshan Gaur
+  - Abhishek Chauhan
+  - Mentor: Gaurang
 24. Drop-it
   - a
   - b
   - c
-25. Cyberoam Utility Tools
-  - a
-  - b
-  - c
-26. Drop-it
-  - a
-  - b
-  - c
+25. Android Chat Application
+  - Prabhat Khare
+  - Shivoy Mohan Gupta
+  - Mentor: Vidit Mathur
+26. JARVIS (Voice Controlled System)
+  - Prabal Rastogi
+  - Prakhar Shrivastava
+  - Pankaj Ahuja
+  - Rishabh Devgan
+  - Mentor: Piyush Srivastava
 27. Cyberoam Utility Tools
   - a
   - b
