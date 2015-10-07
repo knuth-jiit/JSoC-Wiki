@@ -19,10 +19,12 @@
   - Naincy Saxena
   - Aditya Mishra
   - Mentor: Varun Gambhir
-5. Cyberoam Utility Tools
-  - a
-  - b
-  - c
+5. Property Finder
+  - Abhimanyu Vashisht 	
+  - Ayush Srivastava
+  - Arjun Singh Chauhan
+  - Rishabh Gulati
+  - Mentor: Rohit Chaudhary
 6. Text Detection and Character Recognition in Scene Images with Unsupervised Feature Learning
   - Vaibahv Grover
   - Hrishikesh Singh
