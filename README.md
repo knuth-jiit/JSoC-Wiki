@@ -14,10 +14,11 @@
   - Abhishek Gupta
   - Nipun Garg
   - Mentor: Tanmay Datta
-4. Drop-it
-  - a
-  - b
-  - c
+4. Spam Filter
+  - Manasvi  Duggal		
+  - Naincy Saxena
+  - Aditya Mishra
+  - Mentor: Varun Gambhir
 5. Cyberoam Utility Tools
   - a
   - b
