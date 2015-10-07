@@ -32,10 +32,9 @@
   - b
   - c
 8. Senior Junior Finder
-  -	Shubham Chawla	
-  - Aditya Jain
-  - Aatish Bansal
-  - SHIVANSHU GUPTA
+  -	Naman Singhal
+  - Gaurav Singhal
+  - Mentor: Shivam Gupta
 9. API for Website
   - Ananya Singhal
   - Sejal Goyal
