@@ -31,10 +31,11 @@
   - a
   - b
   - c
-8. Drop-it
-  - a
-  - b
-  - c
+8. Senior Junior Finder
+  -	Shubham Chawla	
+  - Aditya Jain
+  - Aatish Bansal
+  - SHIVANSHU GUPTA
 9. API for Website
   - Ananya Singhal
   - Sejal Goyal
