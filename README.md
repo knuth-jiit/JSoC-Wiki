@@ -29,10 +29,11 @@
   - Vaibahv Grover
   - Hrishikesh Singh
   - Mentor: Shreya Kakkar
-7. Cyberoam Utility Tools
-  - a
-  - b
-  - c
+7. Programming Hub App
+  - Yash Agrawal	
+  - Paras Upreti
+  - Apurv Tandon
+  - Mentor: Naman Sancheti
 8. Senior Junior Finder
   -	Naman Singhal
   - Gaurav Singhal
