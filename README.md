@@ -43,10 +43,11 @@
   - Sejal Goyal
   - Jharna Barlawala
   - Mentor: Shubham Aggarwal
-10. Drop-it
-  - a
-  - b
-  - c
+10. Android Application for students
+  - shriya juneja		
+  - anuj saraswat
+  - sakshi sharma
+  - Mentor: Asmita Mitra
 11. AI Game
   - Kartik Sharma
   - Somya Bhatnagar
