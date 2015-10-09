@@ -60,10 +60,11 @@
   - PIYUSH
   - TEJASV CHHARI
   - Mentor: Mayank Ladia
-13. Cyberoam Utility Tools
-  - a
-  - b
-  - c
+13. Projects based on bi-partite matching and maximum flow algorithms
+  - Jayant
+  - Himanshu Aggarwal
+  - Manish Sharma
+  - Mentor: Aniket Bhatnagar
 14. Automated Essay Grading
   - Umang Nyati
   - Sneha Rawat
