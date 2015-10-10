@@ -77,57 +77,49 @@
   - Siddhant Pathak
   - Emin Afroz
   - Mentor: Gaurav Shukla
-16. Drop-it
-  - a
-  - b
-  - c
-17. Cyberoam Utility Tools
-  - a
-  - b
-  - c
+16. Image Editor using openCV
+  - 
+  - 
+  - Mentor: Sanchit Kapoor
+17. Online Messenger
+  - 
+  - 
+  - Mentor: Avantika Verma
 18. JIIT Event Scheduling App
   - Yash Tandon
   - Harshit Singhal
   - Mentor: Atul Agarwal
-19. Cyberoam Utility Tools
-  - a
-  - b
-  - c
-20. Drop-it
-  - a
-  - b
-  - c
-21. Cyberoam Utility Tools
-  - a
-  - b
-  - c
-22. Drop-it
-  - a
-  - b
-  - c
-23. Braille Voice
+19. WebChat
+  - 
+  - 
+  - Mentor: Swati
+20. AutoUpdates from fileserver
+  - 
+  - 
+  - Mentor: Shivangi
+21. Jaypee Online Judje (JOJ)
+  - 
+  - 
+  - Mentor: Arushi Agarwal
+22. Braille Voice
   - Eshan Gaur
   - Abhishek Chauhan
   - Mentor: Gaurang
-24. Comparing Site
-  - a
-  - b
-  - c
-25. Android Chat Application
+23. Android library for the thread & process handling and smart UI
+  - 
+  - 
+  - Mentor: Prabhat Awasthi
+24. Android Chat Application
   - Prabhat Khare
   - Shivoy Mohan Gupta
   - Mentor: Vidit Mathur
-26. JARVIS (Voice Controlled System)
+25. JARVIS (Voice Controlled System)
   - Prabal Rastogi
   - Prakhar Shrivastava
   - Pankaj Ahuja
   - Rishabh Devgan
   - Mentor: Piyush Srivastava
-27. Game Development with Python
-  - a
-  - b
-  - c
-28. Drop-it
-  - a
-  - b
-  - c
+26. Game Development with Python
+  - 
+  - 
+  - Mentor: Utkarsh Tiwari
