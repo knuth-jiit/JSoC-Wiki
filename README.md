@@ -21,7 +21,7 @@
   - Mentor: Varun Gambhir
 5. Property Finder
   - Abhimanyu Vashisht 	
-  - Ayush Srivastava
+  - Ayush Srivastavaavan
   - Arjun Singh Chauhan
   - Rishabh Gulati
   - Mentor: Rohit Chaudhary
@@ -82,8 +82,10 @@
   - 
   - Mentor: Sanchit Kapoor
 17. Online Messenger
-  - 
-  - 
+  - Prashant Shukla 
+  - Avantika Gupta
+  - Avikalp Srivastava
+  - Himangi Mittal
   - Mentor: Avantika Verma
 18. JIIT Event Scheduling App
   - Yash Tandon
