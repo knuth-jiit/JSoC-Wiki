@@ -78,8 +78,8 @@
   - Emin Afroz
   - Mentor: Gaurav Shukla
 16. Image Editor using openCV
-  - 
-  - 
+  - Shashank Gupta
+  - Prinkal Agarwal
   - Mentor: Sanchit Kapoor
 17. Online Messenger
   - Prashant Shukla 
