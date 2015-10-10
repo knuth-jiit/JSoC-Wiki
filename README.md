@@ -94,8 +94,10 @@
   - 
   - Mentor: Swati
 20. AutoUpdates from fileserver
-  - 
-  - 
+  - Vasu Arora
+  - Raghav Maheshwari
+  - Sarthak Mendiratta
+  - Anahita Batra
   - Mentor: Shivangi
 21. Jaypee Online Judje (JOJ)
   - 
