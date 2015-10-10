@@ -101,8 +101,8 @@
   - Anahita Batra
   - Mentor: Shivangi
 21. Jaypee Online Judje (JOJ)
-  - 
-  - 
+  - Sajal Subodh
+  - Prashant Chahal
   - Mentor: Arushi Agarwal
 22. Braille Voice
   - Eshan Gaur
