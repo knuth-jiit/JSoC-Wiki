@@ -124,6 +124,7 @@
   - Rishabh Devgan
   - Mentor: Piyush Srivastava
 26. Game Development with Python
-  - 
-  - 
+  - Akul Gupta		
+  - Chaitanya Sayi
+  - Harshit Paliwal
   - Mentor: Utkarsh Tiwari
